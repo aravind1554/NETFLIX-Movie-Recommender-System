@@ -67,6 +67,10 @@ src/
 │   └── recommendations.ts # Recommendation algorithms
 └── App.tsx             # Main application component
 ```
+## Website link
+```
+https://snazzy-elf-529231.netlify.app/
+```
 
 ## License
 
